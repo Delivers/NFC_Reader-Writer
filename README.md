@@ -1,7 +1,3 @@
-# Dataland_NFC_Reader-Writer
-This Repo is for NFC Reader and Writer for the NFC_Tag / Type4 &amp; 5? / ntag125
-
-
 # 🪪 NTAG215 NFC URL Writer & Reader
 
 A lightweight Python 3 tool that writes a **URL (NDEF record)** to **NTAG215 NFC tags** using a supported USB NFC reader (such as an ACR122U).  
